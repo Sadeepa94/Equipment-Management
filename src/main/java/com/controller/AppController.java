@@ -76,6 +76,7 @@ public class AppController {
 		boolean d=adminservice.adminEmpty();
 		if(!d){
 			System.out.println(d);
+			System.out.println("test git");
 		return "login";
 		
 		}
